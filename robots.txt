@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://homefurniture-.github.io/sitemap.xml
+Sitemap: https://homefurniture123.github.io/sitemap.xml
